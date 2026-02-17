@@ -1,16 +1,25 @@
-## Hi there 👋
+### Привет! Я [Твое Имя] 👋
 
-<!--
-**B10Sreg/B10Sreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Python-разработчик, специализирующийся на создании Telegram-ботов, парсеров и автоматизации бизнес-процессов.
 
-Here are some ideas to get you started:
+---
+#### 🛠️ Технический стек
+* **Языки:** Python 3.10+, Java (Core, Spring Boot)
+* **Web:** HTML5, CSS3, FastAPI, Flask
+* **Telegram:** Aiogram 3.x, Pyrogram
+* **AI & LLM:** Опыт развертывания локальных моделей (Llama 2/3, Mistral) через Ollama / LocalAI
+* **Базы данных:** PostgreSQL, SQLite, Redis
+* **Инструменты:** Docker, Git, Linux (Bash)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+]
+
+#### 📈 Моя статистика GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B10Sreg&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B10Sreg&layout=compact&theme=tokyonight)
+
+---
+
+#### 📫 Как со мной связаться
+* **Email:** Iam171181@gmail.com
