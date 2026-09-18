@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm BMV 👋</h1>
+<h1 align="center">Hi, I'm BIOS 👋</h1>
 <h3 align="center">Aspiring DevOps Engineer | Building infrastructure, one container at a time</h3>
 
 <p align="center">
@@ -70,8 +70,8 @@
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:popo66698rt@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/B1OSreg"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⭐️ From building infrastructure to building a career.</i></p>
